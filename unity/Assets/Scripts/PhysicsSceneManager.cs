@@ -660,6 +660,8 @@ public class PhysicsSceneManager : MonoBehaviour {
                         break;
                     }
                 }
+                
+                Debug.Log(HowManyCouldntSpawn);
 
                 if (!spawned) {
 #if UNITY_EDITOR
