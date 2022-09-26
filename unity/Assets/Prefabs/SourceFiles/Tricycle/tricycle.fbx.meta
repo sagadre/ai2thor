@@ -8,47 +8,47 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: BLACK
-    second: {fileID: 2100000, guid: d8a11d9934b7b0354b2bd1fe381b4da9, type: 2}
+    second: {fileID: 2100000, guid: aef422192b6b99f46b295d8d6ab87d87, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: BLU
-    second: {fileID: 2100000, guid: 3f97724fd02691c7aa69a7b2ee3993a0, type: 2}
+    second: {fileID: 2100000, guid: 946c90bfcb3d7a97c98b59d03788bd9c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: VRayMtl1
-    second: {fileID: 2100000, guid: 000aad39888f445eebfbed3d8d1f3ad3, type: 2}
+    second: {fileID: 2100000, guid: f84255c7a82282b3bae2bdb9375b65e8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: VRayMtl2
-    second: {fileID: 2100000, guid: 07daa300bee1017679f9afd075ba917e, type: 2}
+    second: {fileID: 2100000, guid: a6982fb5cecc4b127861e5362fac8985, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: VRayMtl3
-    second: {fileID: 2100000, guid: 3f97724fd02691c7aa69a7b2ee3993a0, type: 2}
+    second: {fileID: 2100000, guid: 946c90bfcb3d7a97c98b59d03788bd9c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: VRayMtl4
-    second: {fileID: 2100000, guid: 3f97724fd02691c7aa69a7b2ee3993a0, type: 2}
+    second: {fileID: 2100000, guid: 946c90bfcb3d7a97c98b59d03788bd9c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: VRayMtl7
-    second: {fileID: 2100000, guid: 000aad39888f445eebfbed3d8d1f3ad3, type: 2}
+    second: {fileID: 2100000, guid: f84255c7a82282b3bae2bdb9375b65e8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Vray_Clr4_VRay
-    second: {fileID: 2100000, guid: d8a11d9934b7b0354b2bd1fe381b4da9, type: 2}
+    second: {fileID: 2100000, guid: aef422192b6b99f46b295d8d6ab87d87, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Vray_Metal3_VRay
-    second: {fileID: 2100000, guid: d8a11d9934b7b0354b2bd1fe381b4da9, type: 2}
+    second: {fileID: 2100000, guid: aef422192b6b99f46b295d8d6ab87d87, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
