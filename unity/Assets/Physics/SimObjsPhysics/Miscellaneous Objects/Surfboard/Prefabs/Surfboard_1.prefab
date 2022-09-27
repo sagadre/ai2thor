@@ -252,9 +252,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectID: 
-  assetID: Plane_1
-  Type: 0
-  PrimaryProperty: 1
+  assetID: 
+  Type: 171
+  PrimaryProperty: 2
   SecondaryProperties: 
   BoundingBox: {fileID: 1168052940306932}
   VisibilityPoints:
@@ -268,8 +268,7 @@ MonoBehaviour:
   debugIsInteractable: 0
   isInAgentHand: 0
   MyColliders:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 6163304262094808591}
   HFdynamicfriction: 0.9
   HFstaticfriction: 0.9
   HFbounciness: 0.05

@@ -253,9 +253,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectID: 
-  assetID: Plane_1
-  Type: 0
-  PrimaryProperty: 1
+  assetID: 
+  Type: 173
+  PrimaryProperty: 2
   SecondaryProperties: 
   BoundingBox: {fileID: 1168052940306932}
   VisibilityPoints:
@@ -276,7 +276,7 @@ MonoBehaviour:
   HFbounciness: 0.05
   HFrbdrag: 1
   HFrbangulardrag: 3
-  salientMaterials: 01000000
+  salientMaterials: 000000000200000007000000
   MySpawnPoints: []
   CurrentTemperature: 0
   HowManySecondsUntilRoomTemp: 10

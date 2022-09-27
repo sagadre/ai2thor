@@ -252,9 +252,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectID: 
-  assetID: Plane_1
-  Type: 0
-  PrimaryProperty: 1
+  assetID: 
+  Type: 165
+  PrimaryProperty: 2
   SecondaryProperties: 
   BoundingBox: {fileID: 1168052940306932}
   VisibilityPoints:
@@ -268,14 +268,13 @@ MonoBehaviour:
   debugIsInteractable: 0
   isInAgentHand: 0
   MyColliders:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 7690423799998786592}
   HFdynamicfriction: 0.9
   HFstaticfriction: 0.9
   HFbounciness: 0.05
   HFrbdrag: 1
   HFrbangulardrag: 3
-  salientMaterials: 01000000
+  salientMaterials: 0000000002000000
   MySpawnPoints: []
   CurrentTemperature: 0
   HowManySecondsUntilRoomTemp: 10
